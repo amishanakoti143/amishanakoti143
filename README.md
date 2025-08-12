@@ -10,6 +10,15 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 - 😄 Pronouns: She /Her 
 - ⚡ Fun fact:  Just like nature tells a story, I love finding the hidden rhythm in data 🌄📈💃
 
+  </td>
+<td align="center" width="40%">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</td>
+</tr>
+</table>
+
+---
+
 - ## 🛠 Skills & Tools
 <table>
 <tr>
