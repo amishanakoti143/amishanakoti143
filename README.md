@@ -1,29 +1,24 @@
 <!-- Banner -->
 <p align="center">
-  <img src="hello.png" width="50%">
+  <img src="assets1.png" width="40%">
 </p>
 
 
 ### Hi there 👋, I'm  Amisha Nakoti
 #### | Data Analytics Enthusiast |
+---
 Curious mind with a love for turning data into stories 📊. Skilled in Power BI, Excel, SQL, and Python 💻, I enjoy creating dashboards that bring insights to life 📈. When I’m not exploring datasets, you’ll find me dancing 💃 or chasing the beauty of mountains 🏔️ and nature 🌿.
 
 Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 
-- 🔭 I’m currently working on Data Analytics Projects 
-- 🌱 I’m currently learning Pandas, NumPy, Data Visualization 
-- 🤔 I’m looking for help with Real-world datasets 📂 
-- 😄 Pronouns: She /Her 
-- ⚡ Fun fact:  Just like nature tells a story, I love finding the hidden rhythm in data 🌄📈💃
+<img src="vw6LrzVLM8.gif" align="right" width="350"/>
 
-  </td>
-<td align="center" width="40%">
-  <img src="vw6LrzVLM8.gif" width="300"/>
-</td>
-</tr>
-</table>
+- 🔭 I’m currently working on Data Analytics Projects  
+- 🌱 I’m currently learning Pandas, NumPy, Data Visualization  
+- 🤔 I’m looking for help with Real-world datasets 📂  
+- 😄 Pronouns: She / Her  
+- ⚡ Fun fact: Just like nature tells a story, I love finding the hidden rhythm in data 🌄📈💃  
 
----
 
 - ## 🛠 Skills & Tools
 <table>
@@ -65,20 +60,4 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 
 
 ## 🌐 Connect with Me
-<p align="center">
-  <a href="https://github.com/amishanakoti143">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40">
-  </a>
-  <a href="https://www.linkedin.com/in/amisha-nakoti-769899358/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="40">
-  </a>
-  <a href="https://www.instagram.com/amu_nakoti/">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="40">
-  </a>
-  <a href="https://www.youtube.com/@amunakoti4698">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="YouTube" height="40">
-  </a>
-  <a href="mailto:amunakoti143@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="gmail" height="40">
-  </a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/amishanakoti143)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/amisha-nakoti-769899358/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/amu_nakoti/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/@amunakoti4698)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](amunakoti143@gmail.com) 
