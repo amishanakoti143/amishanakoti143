@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="assets1.png" width="40%">
+  <img src="assets1.png" width="50%">
 </p>
 
 
@@ -18,6 +18,8 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 - 🤔 I’m looking for help with Real-world datasets 📂  
 - 😄 Pronouns: She / Her  
 - ⚡ Fun fact: Just like nature tells a story, I love finding the hidden rhythm in data 🌄📈💃  
+
+
 
 
 - ## 🛠 Skills & Tools
