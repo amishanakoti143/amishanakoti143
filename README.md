@@ -11,7 +11,7 @@ Curious mind with a love for turning data into stories 📊. Skilled in Power BI
 
 Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 
-<img src="vw6LrzVLM8.gif" align="right" width="350"/>
+<img src="vw6LrzVLM8.gif" align="right" width="300"/>
 
 - 🔭 I’m currently working on Data Analytics Projects  
 - 🌱 I’m currently learning Pandas, NumPy, Data Visualization  
