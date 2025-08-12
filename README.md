@@ -12,7 +12,7 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 
   </td>
 <td align="center" width="40%">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+  <img src="vw6LrzVLM8.gif" width="300"/>
 </td>
 </tr>
 </table>
