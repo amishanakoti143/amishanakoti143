@@ -15,7 +15,8 @@ Skills: Power BI, Excel, SQL, Python, Data Visualization, Pandas, NumPy
 
 - 🔭 I’m currently working on Data Analytics Projects  
 - 🌱 I’m currently learning Pandas, NumPy, Data Visualization  
-- 🤔 I’m looking for help with Real-world datasets 📂  
+- 🤔 I’m looking for help with Real-world datasets 📂
+- - 📫 How to reach me: amunakoti143@gmail.com 
 - 😄 Pronouns: She / Her  
 - ⚡ Fun fact: Just like nature tells a story, I love finding the hidden rhythm in data 🌄📈💃  
 
